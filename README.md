@@ -13,10 +13,10 @@
 
 | 📚 Assignment Title | 📥 PDF Version |
 | :--- | :---: | :---: |
-| **Personal Essay** | [View PDF]([https://github.com/Nattadol/Network-Portfolio/blob/main/Assingment/Personal-essay.docx.pdf](https://github.com/Nattadol/Network-Portfolio/blob/b5948da2efe78331eac74d73730e9f7ff8323070/Assingment/Personal-essay.docx.pdf)) |
-| **Assignment 2 (Topology)** | [View PDF](https://github.com/Nattadol/Network-Portfolio/blob/b5948da2efe78331eac74d73730e9f7ff8323070/Assingment/Assignment%202.pdf) |
-| **Assignment 3 (Not Simple)** | [View PDF]([https://github.com/nnadiaju/Network-Portfolio/blob/main/Assignment/Assignment%203.pdf](https://github.com/Nattadol/Network-Portfolio/blob/b5948da2efe78331eac74d73730e9f7ff8323070/Assingment/Assignment%203.pkt)) |
-| **Assignment 4 (TCP-UDP)** | [View PDF]([https://github.com/nnadiaju/Network-Portfolio/blob/main/Assignment/Assignment%202.pdf](https://github.com/Nattadol/Network-Portfolio/blob/b5948da2efe78331eac74d73730e9f7ff8323070/Assingment/Assignment%204.pdf)) |
+| **Personal Essay** | [View PDF](https://github.com/Nattadol/NetworkPortfolio/blob/b5948da2efe78331eac74d73730e9f7ff8323070/Assingment/Personal-essay.docx.pdf) |
+| **Assignment 2 (Topology)** | [View PDF](https://github.com/Nattadol/NetworkPortfolio/blob/b5948da2efe78331eac74d73730e9f7ff8323070/Assingment/Assignment%202.pdf) |
+| **Assignment 3 (Not Simple)** | [View PDF](https://github.com/Nattadol/Network-Portfolio/blob/b5948da2efe78331eac74d73730e9f7ff8323070/Assingment/Assignment%203.pkt) |
+| **Assignment 4 (TCP-UDP)** | [View PDF](https://github.com/Nattadol/Network-Portfolio/blob/b5948da2efe78331eac74d73730e9f7ff8323070/Assingment/Assignment%204.pdf) |
 
 ---
 
