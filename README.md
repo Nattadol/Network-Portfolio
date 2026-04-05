@@ -35,7 +35,7 @@
 ## 💻 Projects & Coding
 
 * **🖥️ Network Programming (Week 1-10):**
-    * [>> GitHub Repository <<](https://github.com/nnadiaju/Network-Week1-10.git)
+    * [>> GitHub Repository <<](https://github.com/Nattadol/Network-Assignment)
 
 * **🚀 Final Project (Psychic-Network):**
     * **Source Code:** [GitHub Link](https://github.com/kittithat67/psychic-network.git)
