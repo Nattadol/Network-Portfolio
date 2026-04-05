@@ -24,11 +24,11 @@
 
 | 🧪 Lab Number | 📥 PDF Version |
 | :--- | :---: | :---: |
-| **LAB 1:** Network Basics | [View PDF](https://github.com/nnadiaju/Network-Portfolio/blob/main/Lab/Lab%201%20_%20Network.pdf) |
-| **LAB 2:** Routing & Switching | [View PDF](https://github.com/nnadiaju/Network-Portfolio/blob/main/Lab/Lab%202.pdf) |
-| **LAB 3:** Protocols | [View PDF](https://github.com/nnadiaju/Network-Portfolio/blob/main/Lab/Network%20Lab3.pdf) |
-| **LAB 4:** Configurations | [View PDF](https://github.com/nnadiaju/Network-Portfolio/blob/main/Lab/LAB%204.pdf) |
-| **LAB 5:** Advanced Network | [View PDF](https://github.com/nnadiaju/Network-Portfolio/blob/main/Lab/LAB%205%20.pdf) |
+| **LAB 1:** Network Basics | [View PDF](https://github.com/Nattadol/Network-Portfolio/blob/main/Lab/Lab%201%20_%20Network.pdf) |
+| **LAB 2:** Routing & Switching | [View PDF](https://github.com/Nattadol/Network-Portfolio/blob/main/Lab/Lab%202.pdf) |
+| **LAB 3:** Protocols | [View PDF](https://github.com/Nattadol/Network-Portfolio/blob/main/Lab/Lab%203.pdf) |
+| **LAB 4:** Configurations | [View PDF](https://github.com/Nattadol/Network-Portfolio/blob/main/Lab/LAB%204.pdf) |
+| **LAB 5:** Advanced Network | [View PDF](https://github.com/Nattadol/Network-Portfolio/blob/main/Lab/LAB%205%20.pdf) |
 
 ---
 
@@ -49,12 +49,12 @@
 
 **1. Pre1 Computer Networks - Getting Started with Cisco Packet Tracer**
 <p align="center">
-  <img width="800" alt="Getting Started Certificate" src="https://github.com/nnadiaju/Network-Portfolio/blob/main/Cisco%20Networking%20Academy/Getting_Started_with_Cisco_Packet_Tracer.png" />
+  <img width="800" alt="Getting Started Certificate" src="https://github.com/Nattadol/Network-Portfolio/blob/main/Certificated/Getting_Started_with_Cisco_Packet_Tracer_certificate_nattadol-s-kkumail-com_20c0716d-2c70-42e3-ab68-6d6d4dde4995.pdf" />
 </p>
 
 **2. CCNA: Introduction to Networks**
 <p align="center">
-  <img width="800" alt="CCNA Certificate" src="https://github.com/nnadiaju/Network-Portfolio/blob/main/Cisco%20Networking%20Academy/CCNA-_Introduction_to_Networks.png" />
+  <img width="800" alt="CCNA Certificate" src="https://github.com/Nattadol/Network-Portfolio/blob/main/Certificated/CCNA-_Introduction_to_Networks_certificate_nattadol-s-kkumail-com_e151ab35-a7dc-4b9e-9577-8423fb1e18e5.pdf" />
 </p>
 
 ---
@@ -62,5 +62,5 @@
 ## ✅ Checkpoint Exam
 
 <p align="center">
-  <img width="800" alt="Checkpoint Exam Result" src="https://github.com/nnadiaju/Network-Portfolio/blob/main/Cisco%20Networking%20Academy/checkpoint.png" />
+  <img width="800" alt="Checkpoint Exam Result" src="https://github.com/Nattadol/Network-Portfolio/blob/main/Certificated/Checkpoint-exam.png" />
 </p>
