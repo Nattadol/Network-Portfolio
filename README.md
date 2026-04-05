@@ -15,7 +15,7 @@
 | :--- | :---: | :---: |
 | **Personal Essay** | [View PDF](https://github.com/Nattadol/Network-Portfolio/blob/main/Assingment/Personal-essay.docx.pdf) |
 | **Assignment 2 (Topology)** | [View PDF](https://github.com/Nattadol/Network-Portfolio/blob/main/Assingment/Assignment2.pdf) |
-| **Assignment 3 (Not Simple)** | [View PDF]([https://github.com/Nattadol/Network-Portfolio/blob/main/Assingment/Assignment3.pdf](https://github.com/Nattadol/Network-Portfolio/blob/main/Assingment/Assignment%203.pkt)) |
+| **Assignment 3 (Not Simple)** | [View PDF](https://github.com/Nattadol/Network-Portfolio/blob/main/Assingment/Assignment%203.pkt) |
 | **Assignment 4 (TCP-UDP)** | [View PDF](https://github.com/Nattadol/Network-Portfolio/blob/main/Assingment/Assignment4.pdf) |
 
 ---
