@@ -81,5 +81,3 @@
   <img width="600" style="border-radius: 10px;" alt="Checkpoint Exam Result" src="https://github.com/Nattadol/Network-Portfolio/blob/main/Certificated/Checkpoint-exam.png" />
 </p>
 
----
-<p align="center">© 2024 Nattadol Sarika | Faculty of Engineering, KKU</p>
