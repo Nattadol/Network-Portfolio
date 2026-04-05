@@ -32,11 +32,11 @@
 
 | 🧪 Lab Number | 📝 Description | 📥 PDF Version |
 | :--- | :--- | :---: |
-| **LAB 1** | Network Basics | [Download](https://github.com/Nattadol/Network-Portfolio/blob/main/Lab/Lab%201%20_%20Network.pdf) |
-| **LAB 2** | Routing & Switching | [Download](https://github.com/Nattadol/Network-Portfolio/blob/main/Lab/Lab%202.pdf) |
-| **LAB 3** | Protocols | [Download](https://github.com/Nattadol/Network-Portfolio/blob/main/Lab/Lab%203.pdf) |
-| **LAB 4** | Configurations | [Download](https://github.com/Nattadol/Network-Portfolio/blob/main/Lab/LAB%204.pdf) |
-| **LAB 5** | Advanced Network | [Download](https://github.com/Nattadol/Network-Portfolio/blob/main/Lab/LAB%205%20.pdf) |
+| **LAB 1** | Network Basics | [📂 View PDF](https://github.com/Nattadol/Network-Portfolio/blob/main/Lab/Lab%201%20_%20Network.pdf) |
+| **LAB 2** | Routing & Switching | [📂 View PDF](https://github.com/Nattadol/Network-Portfolio/blob/main/Lab/Lab%202.pdf) |
+| **LAB 3** | Protocols | [📂 View PDF](https://github.com/Nattadol/Network-Portfolio/blob/main/Lab/Lab%203.pdf) |
+| **LAB 4** | Configurations | [📂 View PDF](https://github.com/Nattadol/Network-Portfolio/blob/main/Lab/LAB%204.pdf) |
+| **LAB 5** | Advanced Network | [📂 View PDF](https://github.com/Nattadol/Network-Portfolio/blob/main/Lab/LAB%205%20.pdf) |
 
 ---
 
